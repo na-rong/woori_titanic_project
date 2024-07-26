@@ -4,7 +4,7 @@
 
 > 📄 프로젝트 명 : MySQL + ELK 구축 및 titanic 데이터 분석 및 시각화
 
-> 👥 팀원 : [박지원](https://github.com/jiione) [최나영](https://github.com/na-rong) [곽병찬](https://github.com/gato-46) [최수연](https://github.com/lotuxsoo)
+> 👥 팀원 : [![박지원의 사진](https://github.com/jiione.jpg)](https://github.com/jiione) [최나영](https://github.com/na-rong) [곽병찬](https://github.com/gato-46) [최수연](https://github.com/lotuxsoo)
 
 > 📆 날짜 : 2024-07-26
 > 
