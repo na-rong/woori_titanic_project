@@ -91,7 +91,7 @@ Logstash의 설치 경로를 확인한 후, 해당 디렉토리로 이동하여 
 ./bin/logstash-plugin install logstash-input-jdbc
 ```
 
-![Untitled](MySQL%20+%20ELK%2019db95e3a7a6463ba7968f9f4200e32f/Untitled.png)
+![image](https://github.com/user-attachments/assets/e24e26bf-9f5a-4a9f-abb0-1f29d6250bf8)
 
 이미 설정 파일이 있다고 뜸 
 
@@ -278,9 +278,9 @@ output {
 - 주제 선정 - 요소에 따른 생존율과 원인 분석
 
 ---
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/a0fb816d-0f7f-4ff7-a1df-daed72bb302d/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/2a2a219b-37c5-4bd7-8c87-600455d0849b/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/a2c89895-8ddf-41c4-bedb-d3eac2fca962/Untitled.png)
+![image](https://github.com/user-attachments/assets/2e4621e3-e088-4c06-9406-9a32ef0c4103)
+![image](https://github.com/user-attachments/assets/d70e8b8f-762e-4757-a1df-a32f7d03ccea)
+![image](https://github.com/user-attachments/assets/9ace5a3c-b858-4f0e-bbd8-6d20e1291d29)
 ---
 
 > 인사이트
