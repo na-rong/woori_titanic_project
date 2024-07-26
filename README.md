@@ -1,4 +1,4 @@
-# MySQL + ELK
+# ⛴️MySQL + ELK
 
 ---
 
