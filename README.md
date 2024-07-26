@@ -278,10 +278,21 @@ output {
 - 주제 선정 - 요소에 따른 생존율과 원인 분석
 
 ---
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/a0fb816d-0f7f-4ff7-a1df-daed72bb302d/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/2a2a219b-37c5-4bd7-8c87-600455d0849b/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf01de53-d804-4b23-b584-ed0884b9e2a9/a2c89895-8ddf-41c4-bedb-d3eac2fca962/Untitled.png)
+---
 
-![image](https://github.com/user-attachments/assets/3628c1ac-8353-407e-aba1-14fee70b96b4)
+> 인사이트
+> 
+- 1등석 승객이 생존율이 높은것을 보아 1등석이 구조에 더 유리한 위치에 있었을 가능성이 높다. 또한 고급 서비스와 시설을 이용한 승객이 구조 과정에서 우선권을 받았을 수 도 있다.
+- 가족과 함께 여행한 승객의 혼자 여행한 승객보다 생존율이 높다. 이를 보아 구조중에 가족 구성원이 서로 돕는 경향이 있을 수도 있어 생존율이 증가했을 수 있다는 도출이 나온다.
+- 총 인원에서는 남성이 많았지만 생존율은 여성이 월등히 높은 것을 볼 수 있다.  이 결과는 당시에 "Women and children first" 라는 규칙이 잘 지켜졌음을 반영.
+- 또한 나이대를 보면 어린아이와 고령자가 20~30대보다 생존율이 높은 것을 볼 수 있는데 이는 어린아이와 여성, 고령 나이대를 우선적으로 구조하려는 노력이 있었음을 볼 수 있다.
 
-# 고찰
+---
+
+# 💡 고찰
 
 - 최나영 : csv파일이 아닌 mysql에 있는 데이터를 연동하여 시각화 실습을 해보니 더 많은 데이터를 관리하거나 시각화 할 때 유용하다고 생각했고, config파일 설정을 꼼꼼하게 하여 데이터가 중복화되지 않도록 하는것이 중요하다는 것을 깨닫는 시간이였습니다.
 - 박지원 : 실제 데이터베이스와 연동하여 ELK 파이프라인을 구축한 경험이 의미가 깊었습니다. 또한, 오랜만에 등원하여 파이프라인을 구축하는 데 어려움이 많았는데 도와준 분들께 감사했습니다.
