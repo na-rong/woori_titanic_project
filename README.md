@@ -279,6 +279,8 @@ output {
 
 ---
 
+![image](https://github.com/user-attachments/assets/3628c1ac-8353-407e-aba1-14fee70b96b4)
+
 # 고찰
 
 - 최나영 : csv파일이 아닌 mysql에 있는 데이터를 연동하여 시각화 실습을 해보니 더 많은 데이터를 관리하거나 시각화 할 때 유용하다고 생각했고, config파일 설정을 꼼꼼하게 하여 데이터가 중복화되지 않도록 하는것이 중요하다는 것을 깨닫는 시간이였습니다.
